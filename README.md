@@ -12,7 +12,11 @@ company wants to bid against SpaceX for a rocket launch
 
 ### Methodology:
 • Data collection methodology
+
 • Perform data wrangling
+
 • Perform exploratory data analysis (EDA) using visualization and SQL
+
 • Perform interactive visual analytics using Folium and Plotly Dash
+
 • Perform predictive analysis using classification models
