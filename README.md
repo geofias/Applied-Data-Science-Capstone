@@ -20,3 +20,5 @@ company wants to bid against SpaceX for a rocket launch
 • Perform interactive visual analytics using Folium and Plotly Dash
 
 • Perform predictive analysis using classification models
+
+![image](https://user-images.githubusercontent.com/89147046/171582550-d83b1e45-f8b5-4318-b061-5e9290732526.png)
