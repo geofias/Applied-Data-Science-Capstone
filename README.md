@@ -1,4 +1,4 @@
-# SpaceX Rocket Pedictions - IBM Data Science Project
+# SpaceX Rocket Pedictions
 
 SpaceX advertises Falcon 9 rocket launches on its
 website with a cost of 62 million dollars; other providers
